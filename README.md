@@ -18,11 +18,12 @@ The Glasses Store E-commerce Project is designed to provide a user-friendly plat
 3. **User Authentication**: Secure login and registration for customers.
 4. **Cart and Checkout**: Easy-to-use cart system with seamless checkout functionality.
 5. **Admin Panel**: Manage products, orders, and users (Laravel backend).
+7. Integrate payment gateway for secure online transactions.
+8. Implement user reviews and ratings for products.
 
 ---
 
 ### Future Enhancements
 
 - Add advanced search and filtering for products.
-- Integrate payment gateway for secure online transactions.
-- Implement user reviews and ratings for products.
+- Enhance the performance and security.
